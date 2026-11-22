@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="navyTop" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E3C5C" />
+      <stop offset="50%" stop-color="#2E547A" />
+      <stop offset="100%" stop-color="#162D46" />
+    </linearGradient>
+    <linearGradient id="navyDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B192C" />
+      <stop offset="60%" stop-color="#122640" />
+      <stop offset="100%" stop-color="#07111F" />
+    </linearGradient>
+    <linearGradient id="goldLight" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B87A4B" />
+      <stop offset="55%" stop-color="#E5A974" />
+      <stop offset="100%" stop-color="#D4925A" />
+    </linearGradient>
+    <linearGradient id="bronzeDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9A5B32" />
+      <stop offset="50%" stop-color="#76401E" />
+      <stop offset="100%" stop-color="#542B12" />
+    </linearGradient>
+  </defs>
+  <path d="M 245,675 L 368,365 C 385,322 415,295 458,275 L 522,245 L 445,335 L 315,595 Z" fill="url(#navyTop)" />
+  <path d="M 522,245 L 395,488 C 350,522 292,585 245,675 L 315,595 L 445,335 Z" fill="url(#navyDark)" />
+  <path d="M 155,835 C 215,695 295,605 435,525 C 555,455 660,365 765,255 L 705,222 L 915,155 L 815,262 C 700,382 585,485 455,565 C 325,645 235,725 155,835 Z" fill="url(#navyTop)" />
+  <path d="M 155,835 C 235,725 325,645 455,565 C 585,485 700,382 815,262 L 915,155 L 852,388 L 812,322 C 695,445 575,548 442,625 C 355,675 315,712 295,745 C 242,768 195,795 155,835 Z" fill="url(#navyDark)" />
+  <path d="M 455,815 L 585,575 C 635,535 715,465 792,388 L 652,585 L 535,755 Z" fill="url(#goldLight)" />
+  <path d="M 792,388 L 652,658 C 632,698 602,728 558,752 L 455,815 L 535,755 L 652,585 Z" fill="url(#bronzeDark)" />
+</svg>
