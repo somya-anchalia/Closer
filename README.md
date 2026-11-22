@@ -10,7 +10,7 @@ The unusual part: **there is no model API bill.** Closer uses your Claude Pro or
 $ closer run
 
 ============================================================
-Closer is online. Always Be Closing.
+Closer is online. AI-powered Sales Leader.
 ============================================================
 Checking pipeline state...
 Decision: write_campaign (3 new prospects with no drafts)

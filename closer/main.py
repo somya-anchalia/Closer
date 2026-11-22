@@ -1,4 +1,4 @@
-"""Closer's main heartbeat loop. Always Be Closing."""
+"""Closer's main heartbeat loop."""
 
 import asyncio
 import logging
@@ -264,7 +264,7 @@ async def heartbeat(stop_event: asyncio.Event | None = None):
         stop_event = asyncio.Event()
 
     logger.info("=" * 60)
-    logger.info("Closer is online. Always Be Closing.")
+    logger.info("Closer is online. AI-powered Sales Leader.")
     logger.info("=" * 60)
 
     try:

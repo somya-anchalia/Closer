@@ -1014,7 +1014,7 @@ def main():
 
     parser = argparse.ArgumentParser(
         prog="closer",
-        description="Closer — Autonomous AI Sales Agent. Always Be Closing.",
+        description="Closer — AI-powered Sales Leader.",
     )
     subparsers = parser.add_subparsers(dest="command")
 

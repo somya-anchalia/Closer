@@ -16,4 +16,4 @@ if sys.version_info < (3, 11):  # pragma: no cover - version guard
         f"    source .venv/bin/activate && pip install -e ."
     )
 
-"""Closer — Autonomous Sales Agent. Always Be Closing."""
+"""Closer — AI-powered Sales Leader."""
